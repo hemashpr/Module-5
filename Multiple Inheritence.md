@@ -58,8 +58,8 @@ print("Division:", obj.Division(a, b))
 
 **Input**
 ```
-10
-5
+8
+24
 ```
 
 
